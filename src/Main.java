@@ -82,5 +82,6 @@ public class Main {
             default:
                 System.out.println("Введен некорректный номер месяца");
         }
+        System.out.println("Домашка выполнена!");
     }
 }
